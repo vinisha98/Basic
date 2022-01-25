@@ -1,2 +1,1 @@
-# bridglabz_java_basic
-# basic
+# Git-Basic-java
